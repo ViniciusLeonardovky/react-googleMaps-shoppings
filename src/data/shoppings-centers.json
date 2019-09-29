@@ -1,0 +1,104 @@
+{
+  "shoppings": [
+    {
+      "place": "Shopping Center Iguatemi",
+      "address": "Avenida Brigadeiro Faria Lima, 2232",
+      "neighborhood": "Jardim Paulistano",
+      "zipcode": "01489-900",
+      "latitude": "-23.5769909",
+      "longitude": "-46.6881428",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "place": "Shopping Cidade São Paulo",
+      "address": "Av. Paulista, 1230 - Bela Vista, São Paulo - SP, 01310-100, Brasil",
+      "neighborhood": "Bela Vista",
+      "zipcode": "01310-100",
+      "latitude": "-23.5635757",
+      "longitude": "-46.6529279",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "place": "Pátio Higienópolis",
+      "address": "R. Dr. Veiga Filho, 133 - Higienópolis, São Paulo - SP, 01238-000, Brasil",
+      "neighborhood": "Higienópolis",
+      "zipcode": "01238-000",
+      "latitude": "-23.5422843",
+      "longitude": "-46.6575016",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "place": "Shopping Center Norte",
+      "address": "Tv. Casalbuono, 120 - Vila Guilherme, São Paulo - SP, 02089-900, Brasil",
+      "neighborhood": "Vila Guilherme",
+      "zipcode": "02089-900",
+      "latitude": "-23.5156096",
+      "longitude": "-46.6180452",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "place": "Shopping D",
+      "address": "Av. Cruzeiro do Sul, 1100 - Canindé, São Paulo - SP, 03033-020, Brasil",
+      "neighborhood": "Canindé",
+      "zipcode": "03033-020",
+      "latitude": "-23.5215848",
+      "longitude": "-46.6238279",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "place": "Estanplaza Paulista",
+      "address": "Alameda Jaú, 497 - Cerqueira César, São Paulo - SP, 01419-001, Brasil",
+      "neighborhood": "Cerqueira César",
+      "zipcode": "01419-001",
+      "latitude": "-23.5666544",
+      "longitude": "-46.6546179",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "place": "Shopping Pátio Paulista",
+      "address": "R. Treze de Maio, 1947 - Bela Vista, São Paulo - SP, 01327-001, Brasil",
+      "neighborhood": "Bela Vista",
+      "zipcode": "01327-001",
+      "latitude": "-23.5705535",
+      "longitude": "-46.6435224",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "place": "Shopping 25 Brás",
+      "address": "R. Barão de Ladário, 402 - Brás, São Paulo - SP, Brasil",
+      "neighborhood": "Brás",
+      "zipcode": "03010-060",
+      "latitude": "-23.5389389",
+      "longitude": "-46.6186486",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "place": "Shopping Frei Caneca",
+      "address": "R. Frei Caneca, 569 - Consolação, São Paulo - SP, 01307-001, Brasil",
+      "neighborhood": "Consolação",
+      "zipcode": "01307-001",
+      "latitude": "-23.5541384",
+      "longitude": "-46.6525913",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "place": "Shopping Metrô Boulevard Tatuapé",
+      "address": "R. Gonçalves Crespo, 78 - Tatuapé, São Paulo - SP, 03066-030, Brasil",
+      "neighborhood": "Tatuapé",
+      "zipcode": "03066-030",
+      "latitude": "-23.5391546",
+      "longitude": "-46.5763426",
+      "city": "São Paulo",
+      "state": "SP"
+    }
+  ]
+}
